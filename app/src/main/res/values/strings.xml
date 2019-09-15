@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="text_accounts">İş Listesi</string>
+    <string name="hint_name">İsim</string>
+    <string name="hint_email">Mail</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_confirm_password">Şifreyi tekrarla</string>
+    <string name="text_login">Giriş</string>
+    <string name="text_register">Kayıt</string>
+    <string name="error_message_name">Ad soyad</string>
+    <string name="error_message_email">Geçerli mail giriniz</string>
+    <string name="error_message_age">Yaş giriniz</string>
+    <string name="error_message_password">Şifre giriniz</string>
+    <string name="success_message">Kayıt başarılı</string>
+    <string name="text_not_member">Henüz hesabınız yok mu? Bir tane yarat</string>
+    <string name="text_already_member">Oturum aç</string>
+    <string name="error_email_exists">Bu e-posta zaten var</string>
+    <string name="error_password_match">Şifre uyuşmuyor</string>
+    <string name="error_valid_email_password">Yanlış e-posta veya şifre</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="text_hello">Merhaba,</string>
+    <string name="text_title">İş Listesi</string>
+</resources>
